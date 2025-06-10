@@ -14,7 +14,5 @@ A command-line based firewall rule simulator written in C++. Supports IPv4 and I
 
 ---
 
-## 🔧 Build Instructions
-
 ### Prerequisites
 - g++ with C++17 support
