@@ -1,0 +1,2 @@
+allow 2001:0db8::1 any
+deny fe80::/64 22
